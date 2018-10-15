@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Data\TOUCH.xml">
+    <Files>
+      <File FileName="Assets\LeanTouch\Scripts\LeanFinger.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanFingerHeld.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanFingerLine.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Scripts\LeanTouch.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Scripts\LeanSnapshot.cs" Line="1" Column="1" />
+      <File FileName="..\..\0323ALLWITHDATA\0323ALLWITHDATA\0323ALLWITHDATA\0323ALLWITHDATA\Assets\testOUR.cs" Line="1" Column="1" />
+      <File FileName="Assets\RotationContainerTOUCH.cs" Line="1" Column="1" />
+      <File FileName="Assets\RecordRotationTOUCH.cs" Line="1" Column="1" />
+      <File FileName="Assets\RotationDataTOUCH.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanFingerTap.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanSelectableGraphicColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanScale.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Scripts\LeanGesture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Data\TOUCH.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
